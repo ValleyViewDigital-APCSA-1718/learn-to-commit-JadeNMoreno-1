@@ -11,7 +11,6 @@ public class Test
          }
 }
 
- 
  public class JadeMoreno
  {
      public static void main(String[] args)
@@ -24,3 +23,21 @@ public class Test
          System.out.println("Favorite Movie:\t\"None\"");
      }//End method main
  }//End class JadeMoreno
+ 
+ /**
+Jade Moreno
+08/16/17
+MyFavoriteQuote **/
+public class MyFavoriteQuote
+{ 
+public static void main(String[] args)
+{ 
+System.out.println(""People were created to be loved."); 
+System.out.println("Things were created to be used."); 
+System.out.println("The reason the world is in chaos is"); 
+System.out.println("because things are being loved"); 
+System.out.println("and people are being used." "); 
+System.out.println("-John Green"); 
+}//End method main 
+}//End class JadeMoreno
+
